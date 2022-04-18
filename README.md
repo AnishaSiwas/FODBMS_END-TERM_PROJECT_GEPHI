@@ -11,12 +11,15 @@ LastFM social network Algorithms used - Fruchterman Reingold, Force Atlas 2, Mea
 ![image](https://user-images.githubusercontent.com/93238926/163675928-84003875-ed17-43db-b8cd-ef4755321936.png)
 Ques 1: What are important entities from different POVs?
 Ans 1: The importance of a particular node can be decided through degree and betweenness.
+
 Nodes with labels 7237, 3450,524, 5101, and many more are important as these have more than 100 connections which we found using the degree range filter.
 
 Ques 2: How many communities exist within the network?
+
 Ans2: A total of 24 communities exist. From which Magneta, Green, Black, Blue & Orange dominate the most.
 
 Ques 3: Why a community is different from other communities?
+
 Ans 3: For finding why a community is different from other communities we combine 2 filters of modularity class & topology.
 These are the insights where we used the data laboratory in Gephi.
 
