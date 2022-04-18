@@ -26,5 +26,6 @@ Ans3.
 The relationship between the top 5 dominating communities is very strong as it is visible and other communities do not have that strong relationship.
 
 Ques 4. What are the important insights?
-Few of the nodes that had more than 100 connections were not connected with each other.
+
+Ans 4. Few of the nodes that had more than 100 connections were not connected with each other.
 
